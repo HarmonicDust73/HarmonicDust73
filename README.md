@@ -9,9 +9,9 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="GUI" src= net-gifmaker](https://user-images.githubusercontent.com/87552607/127435023-b344be7c-8e80-4ead-8b51-81bce7328c6a.gif)>   
+  <img align="right" alt="GUI" src="https://cdn.discordapp.com/attachments/757831879377289267/870178410285113354/picasion.com_0a60ddeff4370389800d40c185819f20.gif"> 
 </div>
   <h1>
 <div> 
-  <a href = mailto:"lglguilherme18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lglguilherme18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
