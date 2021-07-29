@@ -9,7 +9,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="GUI" src="https://cdn.discordapp.com/attachments/757831879377289267/870178410285113354/picasion.com_0a60ddeff4370389800d40c185819f20.gif"> 
+  <img align="right" alt="GUI" height="150" width"40" src="https://cdn.discordapp.com/attachments/757831879377289267/870178410285113354/picasion.com_0a60ddeff4370389800d40c185819f20.gif"> 
 </div>
   <h1>
 <div> 
